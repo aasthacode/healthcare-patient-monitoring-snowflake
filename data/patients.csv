@@ -1,0 +1,31 @@
+patient_id,age,gender,registration_date,city
+P001,45,Male,2022-01-15,New York
+P002,62,Female,2022-02-20,Los Angeles
+P003,38,Male,2022-03-10,Chicago
+P004,55,Female,2022-01-28,Houston
+P005,71,Male,2022-04-05,Phoenix
+P006,29,Female,2022-02-14,Philadelphia
+P007,48,Male,2022-05-22,San Antonio
+P008,66,Female,2022-03-30,San Diego
+P009,53,Male,2022-06-11,Dallas
+P010,41,Female,2022-07-08,San Jose
+P011,34,Male,2022-08-19,Austin
+P012,58,Female,2022-09-03,Jacksonville
+P013,77,Male,2022-10-25,Fort Worth
+P014,44,Female,2022-11-17,Columbus
+P015,31,Male,2022-12-09,Charlotte
+P016,69,Female,2023-01-04,Indianapolis
+P017,50,Male,2023-02-16,San Francisco
+P018,36,Female,2023-03-27,Seattle
+P019,63,Male,2023-04-18,Denver
+P020,27,Female,2023-05-09,Nashville
+P021,57,Male,2023-06-22,Oklahoma City
+P022,42,Female,2023-07-14,El Paso
+P023,74,Male,2023-08-03,Boston
+P024,39,Female,2023-09-28,Portland
+P025,61,Male,2023-10-11,Las Vegas
+P026,33,Female,2023-11-05,Memphis
+P027,52,Male,2023-12-19,Louisville
+P028,46,Female,2024-01-07,Baltimore
+P029,68,Male,2024-02-23,Milwaukee
+P030,35,Female,2024-03-15,Albuquerque

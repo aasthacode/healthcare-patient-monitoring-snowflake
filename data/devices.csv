@@ -1,0 +1,16 @@
+device_id,device_type,manufacturer,deployment_date,device_status
+D001,Heart Rate Monitor,MedTech Solutions,2021-06-01,Active
+D002,Glucose Monitor,HealthSense Corp,2021-07-15,Active
+D003,Pulse Oximeter,VitalSign Systems,2021-08-20,Active
+D004,Heart Rate Monitor,MedTech Solutions,2021-09-10,Active
+D005,Glucose Monitor,HealthSense Corp,2021-10-05,Maintenance
+D006,Pulse Oximeter,VitalSign Systems,2021-11-22,Active
+D007,Heart Rate Monitor,BioMonitor Inc,2022-01-14,Active
+D008,Glucose Monitor,HealthSense Corp,2022-02-28,Retired
+D009,Pulse Oximeter,VitalSign Systems,2022-03-17,Active
+D010,Heart Rate Monitor,BioMonitor Inc,2022-04-09,Active
+D011,Multi-Parameter Monitor,MedTech Solutions,2022-05-30,Active
+D012,Multi-Parameter Monitor,BioMonitor Inc,2022-06-18,Active
+D013,Glucose Monitor,ClearGlucose Ltd,2022-07-25,Active
+D014,Pulse Oximeter,VitalSign Systems,2022-08-12,Maintenance
+D015,Multi-Parameter Monitor,ClearGlucose Ltd,2022-09-03,Active
